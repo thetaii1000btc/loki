@@ -1,0 +1,2 @@
+# loki
+hold coin loki
